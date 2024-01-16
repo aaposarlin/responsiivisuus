@@ -73,6 +73,7 @@ nav {
     align-items: center;
     border-top: 1px solid var(--dark-foreground-color);
     border-bottom: 1px solid var(--dark-foreground-color);
+    height: 40px;
 }
 nav ul {
     padding-left: calc(var(--general-padding) / 2);
